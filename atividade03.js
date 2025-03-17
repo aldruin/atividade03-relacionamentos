@@ -1,3 +1,5 @@
+console.log('testando ashuashuaahua')
+
 //professor fiquei com duvida sobre o diagrama, pois ele define tipos para os atributos de entidades
 //porém em js não usamos tipos, então deixei por assim mesmo
 
